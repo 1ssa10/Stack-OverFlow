@@ -55,7 +55,7 @@ const LeftSidebar = () => {
                 className="invert-colors lg:hidden"
               />
               <span className=" primary-text-gradient max-lg:hidden">
-                Log In{" "}
+                Log In
               </span>
             </Button>
           </Link>
